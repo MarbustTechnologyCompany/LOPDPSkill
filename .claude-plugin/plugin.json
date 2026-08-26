@@ -1,0 +1,13 @@
+{
+  "name": "lopdp-ecuador",
+  "version": "1.0.0",
+  "description": "Skill para cumplir la Ley Orgánica de Protección de Datos Personales de Ecuador (LOPDP) al desarrollar: formularios, consentimiento, derechos ARCO+, retención, seguridad y sanciones.",
+  "author": {
+    "name": "Marco Antonio Bustillos Quiroz (MarAntBQ)",
+    "url": "https://marantbq.dev"
+  },
+  "homepage": "https://github.com/MarbustTechnologyCompany/LOPDPSkill",
+  "repository": "https://github.com/MarbustTechnologyCompany/LOPDPSkill",
+  "license": "MIT",
+  "keywords": ["lopdp", "ecuador", "proteccion-datos", "gdpr", "privacy", "compliance", "skill"]
+}

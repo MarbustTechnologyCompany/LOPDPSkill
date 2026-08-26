@@ -1,0 +1,16 @@
+{
+  "name": "marbust-lopdp",
+  "owner": {
+    "name": "Marbust Technology Company",
+    "url": "https://github.com/MarbustTechnologyCompany"
+  },
+  "plugins": [
+    {
+      "name": "lopdp-ecuador",
+      "source": "./",
+      "description": "Cumplir la Ley Orgánica de Protección de Datos Personales de Ecuador (LOPDP, R.O. 459 del 26-V-2021) al desarrollar cualquier proyecto que recoja datos de personas.",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}
