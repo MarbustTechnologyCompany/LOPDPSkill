@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Marco Antonio Bustillos Quiroz (MarAntBQ) — Marbust Technology Company
+Copyright (c) 2026 Marbust Technology Company
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,17 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-AVISO / DISCLAIMER
-
-Esta skill es una guía técnica para desarrolladores, NO constituye asesoría
-jurídica. El texto de la ley incluido en `references/` es un documento público
-del Estado ecuatoriano (Registro Oficial 459, 26-V-2021), reproducido con fines
-informativos. Para decisiones legales consulta a un profesional del derecho y a
-la Superintendencia de Protección de Datos Personales del Ecuador.
-
-This skill is a technical guide for developers and does NOT constitute legal
-advice. The law text in `references/` is a public document of the Ecuadorian
-State, reproduced for informational purposes.
