@@ -11,6 +11,8 @@ copiar políticas genéricas que no cumplen, y sin dejarlo "para después".
 Si tu sistema recoge un **nombre, un correo o un teléfono** de una persona, esta ley te aplica.
 Esta skill te dice **qué hacer, cuándo y cómo**, a nivel de código y de producto.
 
+> **¿Quieres contribuir?** Abre un issue o un PR. Guía: [`CONTRIBUTING.md`](CONTRIBUTING.md) · reglas (precisión legal): [`AGENTS.md`](AGENTS.md) · primer día: [`docs/ONBOARDING.md`](docs/ONBOARDING.md) · reportar un problema en privado: [`SECURITY.md`](SECURITY.md).
+
 ---
 
 ## ¿Por qué existe?
